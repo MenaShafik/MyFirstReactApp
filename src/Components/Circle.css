@@ -1,0 +1,48 @@
+#circle_shape {
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+}
+.pro_shape{
+    border-color: chocolate;
+    border-style:solid;
+    background-color: coral;
+    border-radius: 5%;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+}
+.message_shape{
+    border-color: orange;
+    border-style:solid;
+    background-color: rgb(230, 203, 87);
+    border-radius: 5%;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+    cursor: pointer;
+    margin: auto;
+}
+.contact_shape{
+    border-color: #0004ff;
+    border-style:solid;
+    background-color: rgb(150, 155, 187);
+    border-radius: 5%;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+    cursor: pointer;
+    margin: auto;
+}
+.value{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin: auto;
+}
